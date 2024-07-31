@@ -1,0 +1,2 @@
+# Detection of Misappropriation of Agents in Shin Kong Life Insurance
+### To assist Shin Kong Life Insurance in establishing a control mechanism in order to prevent agents from misappropriating customer premiums. We used machine learning methods to identify key indicators of agents engaged in misappropriation, allowing us to formulate routine audit plans to safeguard the company's reputation and assets.
